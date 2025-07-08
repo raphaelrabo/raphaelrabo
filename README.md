@@ -18,9 +18,9 @@ A passionate **Fullstack Developer & Application Architect** from France 🇫�
 
 ## 💼 Professional Experience
 
-### 💻 Developer & Application Architect – *PM-SA* (Alternance)  
+### 💻 Developer & Application Architect – *Sirius Media Production* (Alternance)  
 **Paris | 2022 – 2024**  
-- Developed and maintained business applications with **Symfony**, **Laravel**, and **Vue.js**  
+- Developed and maintained business applications with native **PHP**,  
 - Set up **SSO** integration across 11 internal tools  
 - Rewrote legacy code and created reusable templates for new apps  
 - Onboarded and mentored new developers  
@@ -40,7 +40,16 @@ A passionate **Fullstack Developer & Application Architect** from France 🇫�
 ### ⚙️ Frameworks & Tools  
 `Symfony` `Laravel` `Vue.js` `React` `Bootstrap` `Twig` `SASS`  
 `Docker` `Git` `GitLab CI` `OAuth2` `SSO` `Salesforce` `Platform.sh`
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+</p>
 ### 🗃️ Databases  
 `MySQL` `MariaDB` `MongoDB` `Neo4j` `HeidiSQL`
 
