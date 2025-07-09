@@ -33,9 +33,8 @@ A passionate **Fullstack Developer & Application Architect** from France 🇫�
 ---
 
 ## 🧠 Skills & Technologies
-# Technologies & Outils
 
-## 💻 Langages
+## 💻 Languages
  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
     title="PHP"
@@ -123,7 +122,7 @@ A passionate **Fullstack Developer & Application Architect** from France 🇫�
     height="40"
   />
 
-## 🖥️ Environnements
+## 🖥️ Environments
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
     title="Linux (Debian)"
@@ -155,7 +154,7 @@ A passionate **Fullstack Developer & Application Architect** from France 🇫�
     height="40"
   />
 
-## 🛠️ Outils
+## 🛠️ Tools
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     title="Git"
@@ -187,7 +186,7 @@ A passionate **Fullstack Developer & Application Architect** from France 🇫�
   height="40"
 />
 
-## 🗃️ Bases de données
+## 🗃️  Databases
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
     title="MySQL / MariaDB"
@@ -214,7 +213,7 @@ A passionate **Fullstack Developer & Application Architect** from France 🇫�
     height="40"
   />
 
-## 🎨 Logiciels & Outils graphiques
+## 🎨 Software & Graphic Tools
 
   <img
     src="https://img.icons8.com/fluency/48/000000/adobe-xd--v1.png"
