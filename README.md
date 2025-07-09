@@ -26,7 +26,7 @@ A passionate **Fullstack Developer & Application Architect** from France 🇫�
 - Onboarded and mentored new developers  
 - Emphasized security, code quality, and documentation
 
-### 🛵 Deliveroo / Just Eat – *Delivery Driver*  
+### 🛵 Just Eat – *Delivery Driver*  
 **Paris | 2021**  
 - Managed deliveries efficiently in a high-paced urban environment  
 
@@ -35,27 +35,15 @@ A passionate **Fullstack Developer & Application Architect** from France 🇫�
 ## 🧠 Skills & Technologies
 
 ### 💻 Languages  
-`PHP` `JavaScript` `TypeScript` `Flutter` `C` `SQL`
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL / MySQL" width="40" height="40"/> </p>
 
 ### ⚙️ Frameworks & Tools  
-`Symfony` `Laravel` `Vue.js` `React` `Bootstrap` `Twig` `SASS`  
-`Docker` `Git` `GitLab CI` `OAuth2` `SSO` `Salesforce` `Platform.sh`
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-</p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" title="Symfony" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab CI" width="40" height="40"/> </p>
 ### 🗃️ Databases  
-`MySQL` `MariaDB` `MongoDB` `Neo4j` `HeidiSQL`
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/> <!-- Neo4j et HeidiSQL n'ont pas d'icône Devicon --> <img src="https://img.icons8.com/ios-filled/50/000000/graph-database.png" title="Neo4j (non-devicon)" width="40" height="40"/> </p>
 
 ### 🖥️ Environments  
-`Linux (Debian)` `Windows` `Android Studio` `Xcode` `VmWare`  
-`JSON` `Adobe XD` `Figma` `Premiere Pro` `After Effects`
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" width="40" height="40"/> <!-- VmWare, JSON, Adobe n'ont pas d'icône Devicon --> <img src="https://img.icons8.com/ios-filled/50/000000/virtual-machine.png" title="VMware" width="40" height="40"/> <img src="https://img.icons8.com/ios-filled/50/000000/json.png" title="JSON" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/> </p>
 
 ---
 
