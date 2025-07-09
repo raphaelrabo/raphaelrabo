@@ -250,7 +250,7 @@ A passionate **Fullstack Developer & Application Architect** from France 🇫�
     width="40"
     height="40"
   />
----
+
 
 
 ## 🎓 Education
