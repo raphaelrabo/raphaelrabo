@@ -205,7 +205,6 @@ A passionate **Fullstack Developer & Application Architect** from France ðŸ‡«ðŸ‡
     width="40"
     height="40"
   />
-
   <img
     src="https://img.icons8.com/external-outline-juicy-fish/60/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png"
     title="HeidiSQL"
