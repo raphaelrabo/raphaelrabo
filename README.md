@@ -180,6 +180,12 @@ A passionate **Fullstack Developer & Application Architect** from France 🇫�
     width="40"
     height="40"
   />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+  title="Visual Studio Code"
+  width="40"
+  height="40"
+/>
 
 ## 🗃️ Bases de données
   <img
