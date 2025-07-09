@@ -194,12 +194,13 @@ A passionate **Fullstack Developer & Application Architect** from France ðŸ‡«ðŸ‡
     width="40"
     height="40"
   />
-  <img
-    src="https://img.icons8.com/ios-filled/50/000000/graph-database.png"
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"
     title="Neo4j"
     width="40"
     height="40"
   />
+
   <img
     src="https://img.icons8.com/external-outline-juicy-fish/60/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png"
     title="HeidiSQL"
@@ -208,7 +209,8 @@ A passionate **Fullstack Developer & Application Architect** from France ðŸ‡«ðŸ‡
   />
 
 ## ðŸŽ¨ Logiciels & Outils graphiques
- <img
+
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobexd/adobexd-plain.svg"
     title="Adobe XD"
     width="40"
@@ -226,7 +228,7 @@ A passionate **Fullstack Developer & Application Architect** from France ðŸ‡«ðŸ‡
     width="40"
     height="40"
   />
-  <img
+   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeaftereffects/adobeaftereffects-original.svg"
     title="After Effects"
     width="40"
