@@ -98,8 +98,8 @@ A passionate **Fullstack Developer & Application Architect** from France ðŸ‡«ðŸ‡
     width="40"
     height="40"
   />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+<img
+    src="https://img.icons8.com/ios-filled/50/ff2d20/laravel.png"
     title="Laravel"
     width="40"
     height="40"
@@ -149,7 +149,7 @@ A passionate **Fullstack Developer & Application Architect** from France ðŸ‡«ðŸ‡
     height="40"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg"
+    src="https://img.icons8.com/color/48/000000/vmware.png"
     title="VmWare"
     width="40"
     height="40"
@@ -210,8 +210,8 @@ A passionate **Fullstack Developer & Application Architect** from France ðŸ‡«ðŸ‡
 
 ## ðŸŽ¨ Logiciels & Outils graphiques
 
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobexd/adobexd-plain.svg"
+  <img
+    src="https://img.icons8.com/fluency/48/000000/adobe-xd--v1.png"
     title="Adobe XD"
     width="40"
     height="40"
@@ -223,13 +223,13 @@ A passionate **Fullstack Developer & Application Architect** from France ðŸ‡«ðŸ‡
     height="40"
   />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobepremierepro/adobepremierepro-original.svg"
+    src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"
     title="Premiere Pro"
     width="40"
     height="40"
   />
-   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeaftereffects/adobeaftereffects-original.svg"
+  <img
+    src="https://img.icons8.com/fluency/48/000000/adobe-after-effects.png"
     title="After Effects"
     width="40"
     height="40"
