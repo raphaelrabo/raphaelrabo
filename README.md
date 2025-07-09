@@ -92,39 +92,158 @@ A passionate **Fullstack Developer & Application Architect** from France 🇫�
   />
 
 ## ⚙️ Frameworks
-![Symfony](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/symfony.svg)  
-![Laravel](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg)  
-![Vue.js](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vue-dot-js.svg)  
-![React](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg)  
-![Bootstrap](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg)  
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg"
+    title="Symfony"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+    title="Laravel"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+    title="Vue.js"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    title="React"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+    title="Bootstrap"
+    width="40"
+    height="40"
+  />
 
 ## 🖥️ Environnements
-![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg)  
-![Windows](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/windows.svg)  
-![Android Studio](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/androidstudio.svg)  
-![Xcode](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/xcode.svg)  
-![VmWare](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vmware.svg)  
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+    title="Linux (Debian)"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"
+    title="Windows"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
+    title="Android Studio"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"
+    title="Xcode"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg"
+    title="VmWare"
+    width="40"
+    height="40"
+  />
 
 ## 🛠️ Outils
-![Git](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg)  
-![Docker](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg)  
-![GitLab CI](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gitlab.svg)  
-![Postman](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg)  
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    title="Git"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+    title="Docker"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+    title="GitLab CI"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+    title="Postman"
+    width="40"
+    height="40"
+  />
 
 ## 🗃️ Bases de données
-![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg)  
-![MariaDB](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mariadb.svg)  
-![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg)  
-![Neo4j](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/neo4j.svg)  
-![HeidiSQL](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/heidisql.svg) <!-- Note: HeidiSQL n’a pas d’icône officielle, tu peux remplacer -->
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    title="MySQL / MariaDB"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+    title="MongoDB"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://img.icons8.com/ios-filled/50/000000/graph-database.png"
+    title="Neo4j"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://img.icons8.com/external-outline-juicy-fish/60/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png"
+    title="HeidiSQL"
+    width="40"
+    height="40"
+  />
 
 ## 🎨 Logiciels & Outils graphiques
-![Adobe XD](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobexd.svg)  
-![Figma](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg)  
-![Premiere Pro](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobepremierepro.svg)  
-![After Effects](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeaftereffects.svg)  
-![Slack](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/slack.svg)  
-![Trello](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/trello.svg)
+ <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobexd/adobexd-plain.svg"
+    title="Adobe XD"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+    title="Figma"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobepremierepro/adobepremierepro-original.svg"
+    title="Premiere Pro"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeaftereffects/adobeaftereffects-original.svg"
+    title="After Effects"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg"
+    title="Slack"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
+    title="Trello"
+    width="40"
+    height="40"
+  />
 ---
 
 
