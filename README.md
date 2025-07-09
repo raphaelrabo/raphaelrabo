@@ -36,15 +36,60 @@ A passionate **Fullstack Developer & Application Architect** from France 🇫�
 # Technologies & Outils
 
 ## 💻 Langages
-![PHP](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg)  
-![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg)  
-![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg)  
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg)  
-![Flutter](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg)  
-![C](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg)  
-![SQL](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg)  
-![Java](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg)  
-![Bash](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gnu.svg)  
+ <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+    title="PHP"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    title="JavaScript"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    title="TypeScript"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    title="Python"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+    title="Flutter"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+    title="C"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    title="SQL"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    title="Java"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+    title="Bash"
+    width="40"
+    height="40"
+  />
 
 ## ⚙️ Frameworks
 ![Symfony](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/symfony.svg)  
